@@ -1,2 +1,2 @@
 # Project-BookstoreDBProject
-SQL project for managing an online bookstore including tables, triggers, permissions, and ER diagram.
+SQL project for managing an online bookstore including tables, permissions, and ER diagram.
